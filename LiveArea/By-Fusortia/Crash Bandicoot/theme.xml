@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme format-ver="01.00" package="0">
+ <HomeProperty>
+   <m_bgParam>
+     <BackgroundParam>
+       <m_imageFilePath>Page_1.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_1t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_2.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_2t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_3.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_3t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_4.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_4t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_5.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_5t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_6.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_6t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+	 </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_7.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_7t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_8.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_8t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_9.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_9t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+ 
+     </BackgroundParam>
+	 <BackgroundParam>
+       <m_imageFilePath>Page_10.png</m_imageFilePath>
+       <m_thumbnailFilePath>Page_10t.png</m_thumbnailFilePath>
+       <m_waveType>1</m_waveType>
+	   <m_fontColor>ffffffff</m_fontColor>
+       <m_fontShadow>1</m_fontShadow>
+     </BackgroundParam>
+   </m_bgParam>
+   <m_bgmFilePath>BGM.at9</m_bgmFilePath>
+   <m_browser>
+     <m_iconFilePath>icon_web.png</m_iconFilePath>
+   </m_browser>
+   <m_calendar>
+     <m_iconFilePath>icon_calendar.png</m_iconFilePath>
+   </m_calendar>
+   <m_camera>
+     <m_iconFilePath>icon_photos.png</m_iconFilePath>
+   </m_camera>
+   <m_email>
+     <m_iconFilePath>icon_mail.png</m_iconFilePath>
+   </m_email>
+   <m_friend>
+     <m_iconFilePath>icon_friends.png</m_iconFilePath>
+   </m_friend>
+   <m_hostCollabo>
+     <m_iconFilePath>icon_cma.png</m_iconFilePath>
+   </m_hostCollabo>
+   <m_message>
+     <m_iconFilePath>icon_messages.png</m_iconFilePath>
+   </m_message>
+   <m_music>
+     <m_iconFilePath>icon_music.png</m_iconFilePath>
+   </m_music>
+   <m_near>
+     <m_iconFilePath>icon_near.png</m_iconFilePath>
+   </m_near>
+   <m_parental>
+     <m_iconFilePath>icon_parental.png</m_iconFilePath>
+   </m_parental>
+   <m_party>
+     <m_iconFilePath>icon_party.png</m_iconFilePath>
+   </m_party>
+   <m_power>
+     <m_iconFilePath>icon_power.png</m_iconFilePath>
+   </m_power>
+   <m_ps3Link>
+     <m_iconFilePath>icon_ps3link.png</m_iconFilePath>
+   </m_ps3Link>
+   <m_ps4Link>
+     <m_iconFilePath>icon_ps4link.png</m_iconFilePath>
+   </m_ps4Link>
+   <m_settings>
+     <m_iconFilePath>icon_settings.png</m_iconFilePath>
+   </m_settings>
+   <m_trophy>
+     <m_iconFilePath>icon_trophies.png</m_iconFilePath>
+   </m_trophy>
+   <m_video>
+     <m_iconFilePath>icon_videos.png</m_iconFilePath>
+   </m_video>
+ </HomeProperty>
+ <InfomationBarProperty>
+   <m_barColor>339900</m_barColor>
+   <m_indicatorColor>ff000000</m_indicatorColor>
+   <m_noticeFontColor>ffffffff</m_noticeFontColor>
+    <m_noticeGlowColor>ff38b6ff</m_noticeGlowColor>
+    <m_noNoticeFilePath>notice.png</m_noNoticeFilePath>
+    <m_newNoticeFilePath>notice.png</m_newNoticeFilePath>
+ </InfomationBarProperty>
+ <InfomationProperty>
+   <m_contentVer>01.00</m_contentVer>
+   <m_homePreviewFilePath>preview_page.png</m_homePreviewFilePath>
+   <m_packageImageFilePath>preview_thumbnail.png</m_packageImageFilePath>
+   <m_provider>
+     <m_default>Fusortia</m_default>
+     <m_param/>
+   </m_provider>
+   <m_startPreviewFilePath>preview_lockscreen.png</m_startPreviewFilePath>
+   <m_title>
+     <m_default>Crash Bandicoot</m_default>
+     <m_param>
+       <m_da>Crash Bandicoot</m_da>
+       <m_de>Crash Bandicoot</m_de>
+       <m_es>Crash Bandicoot</m_es>
+       <m_fi>Crash Bandicoot</m_fi>
+       <m_fr>Crash Bandicoot</m_fr>
+       <m_it>Crash Bandicoot</m_it>
+       <m_nl>Crash Bandicoot</m_nl>
+       <m_no>Crash Bandicoot</m_no>
+       <m_pl>Crash Bandicoot</m_pl>
+       <m_pt>Crash Bandicoot</m_pt>
+       <m_ru>Crash Bandicoot</m_ru>
+       <m_sv>Crash Bandicoot</m_sv>
+       </m_param>
+   </m_title>
+ </InfomationProperty>
+ <StartScreenProperty>
+   <m_dateColor>ffff0099</m_dateColor>
+   <m_dateLayout>0</m_dateLayout>
+   <m_filePath>lockscreen.png</m_filePath>
+   <m_notifyBgColor>ffffffff</m_notifyBgColor>
+   <m_notifyBorderColor>ffffffff</m_notifyBorderColor>
+   <m_notifyFontColor>ffffffff</m_notifyFontColor>
+ </StartScreenProperty>
+</theme>
