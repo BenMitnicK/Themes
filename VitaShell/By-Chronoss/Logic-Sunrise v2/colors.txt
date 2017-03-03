@@ -1,0 +1,57 @@
+# VitaShell colors file
+
+# Shell colors
+BACKGROUND_COLOR             = 0xFF000000    # Black
+TITLE_COLOR                  = 0xFF007FFF    # Orange
+PATH_COLOR                   = 0xFF3F3F3F    # Darkgray #1 
+DATE_TIME_COLOR              = 0xFF007FFF    # Orange 
+
+# File browser colors
+FOCUS_COLOR                  = 0xFF00FF00    # Green
+FILE_COLOR                   = 0xFFFFFF00    # Azure 
+SFO_COLOR                    = 0xFFFB4A09    # Blue
+TXT_COLOR                    = 0xFFFFFFFF    # White
+FOLDER_COLOR                 = 0xFF007FFF    # Orange
+IMAGE_COLOR                  = 0xFF80F5FF    # Yellow 
+ARCHIVE_COLOR                = 0xFFFB4A09    # Blue 
+SCROLL_BAR_COLOR             = 
+SCROLL_BAR_BG_COLOR          = 
+MARKED_COLOR                 = 0x4FFF7F00    # Azure with alpha
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFFFFFFFF    # White
+CONTEXT_MENU_FOCUS_COLOR     = 0xFF00FF00    # Green
+CONTEXT_MENU_COLOR           = 0xFA2F2F2F    # Darkgray #2 with alpha
+CONTEXT_MENU_MORE_COLOR      = 0xFC282828    # Darkgray #3 with alpha
+INVISIBLE_COLOR              = 0xFF3F3F3F    # Darkgray #1
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFF007FFF    # Orange 
+DIALOG_BG_COLOR              = 0xFF2F2F2F    # Darkgray #2
+PROGRESS_BAR_COLOR           = 0xFF0000FF    # Red
+PROGRESS_BAR_BG_COLOR        = 0xFFffba00    # Blue 
+
+# Hex editor colors
+HEX_COLOR                    = 0xFFFFFFFF    # White
+HEX_OFFSET_COLOR             = 0xFFFFFF00    # Cyan
+HEX_NIBBLE_COLOR             = 0xFFBFBFBF    # Red
+
+# Text editor colors
+TEXT_COLOR                   = 0xFFFFFFFF    # White
+TEXT_FOCUS_COLOR             = 0xFF00FF00    # Green
+TEXT_LINE_NUMBER_COLOR       = 0xFF4F4F4F    # Darkgray #3
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFF7F7F7F    # Gray
+TEXT_HIGHLIGHT_COLOR         = 0xFF80F5FF    # Yellow
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xFFFFFFFF    # White
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFFFFFF00    # Cyan
+AUDIO_INFO                   = 0xFFFFFFFF    # White
+AUDIO_SPEED                  = 0xFFFFFFFF    # White
+AUDIO_TIME_CURRENT           = 0xFF00FF00    # Green
+AUDIO_TIME_SLASH             = 0xFFFFFFFF    # White
+AUDIO_TIME_TOTAL             = 0xFFFFFFFF    # White
+AUDIO_TIME_BAR               = 0xFF00FF00    # Green
+AUDIO_TIME_BAR_BG            = 0xFF7F7F7F    # Gray
