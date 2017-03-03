@@ -2,18 +2,18 @@
 
     Here you can find theme for the homebrews and games (LiveArea)
 
-LiveArea
+<p><span style="color: #800000;"><em><strong><span style="font-size: 12pt;">LiveArea</span></strong></em></span></p>
 
     Here you can find theme for PSVita 
 
-VitaShell
+<p><span style="color: #800000;"><em><strong><span style="font-size: 12pt;">VitaShell</span></strong></em></span></p>
 
     Here your can find theme for VitaShell
 
-VitaShell-For-VitaToolBox
+<p><span style="color: #800000;"><em><strong><span style="font-size: 12pt;">VitaShell-For-VitaToolBox</span></strong></em></span></p>
 
     Here you can find theme for VitaShell of VitaToolBox
 
-VitaToolBox
+<p><span style="color: #800000;"><em><strong><span style="font-size: 12pt;">VitaToolBox</span></strong></em></span></p>
 
     Here you can find theme for VitaToolBox (Coming-Soon)
